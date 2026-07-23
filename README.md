@@ -1,4 +1,4 @@
-# 🛡️ CYPHER — AI Learning Coach for Cybersecurity & IT
+# 🛡️ CYPHER — AI Learning Companion for Cybersecurity & IT
 
 > Stop winging your study sessions. CYPHER builds a full personalized learning roadmap tailored to your topic, level, and time, cybersecurity or any other technical skill.
 
@@ -12,7 +12,7 @@
 
 ## What is CYPHER?
 
-CYPHER is an AI-powered learning coach for cybersecurity and technical skills. Enter your topic, experience level, available time, and learning goal, and get back a complete personalized roadmap: a session brief, a time-matched study plan that actually teaches before it links out, a certification-style knowledge check, key takeaways, a practitioner tip, and a portfolio-ready project ladder.
+CYPHER is an AI-powered learning companion for cybersecurity and technical skills. Enter your topic, experience level, available time, and learning goal, and get back a complete personalized roadmap: a session brief, a time-matched study plan that actually teaches before it links out, a certification-style knowledge check, key takeaways, a practitioner tip, and a portfolio-ready project ladder.
 
 It started as a cybersecurity study planner. The engine underneath was never actually specific to security, the same four inputs work for cloud, networking, Linux, DevOps, or any other technical topic, and the branding is catching up to that.
 
@@ -111,6 +111,6 @@ tests/
 
 ---
 
-Built by **John** — Cybersecurity Analyst | SOC | Pentest | GRC | AI Applications
+Built by **John Ofulue** — Cybersecurity Analyst | SOC | Pentest | GRC | AI Applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-Neptune430-black?style=flat&logo=github)](https://github.com/Neptune430)
