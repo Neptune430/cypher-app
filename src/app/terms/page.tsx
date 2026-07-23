@@ -59,7 +59,7 @@ export default function TermsOfService() {
 
       <h2>Changes to the service or these terms</h2>
       <p>
-        This is an actively developed personal project. Features may change, and these terms may be
+        This is an actively developed community project. Features may change, and these terms may be
         updated as the service evolves. Continued use after an update means you accept the revised
         terms.
       </p>
