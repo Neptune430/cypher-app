@@ -20,7 +20,7 @@ interface Bucket {
 const buckets = new Map<string, Bucket>();
 
 export const WINDOW_MS = 60 * 60 * 1000; // 1 hour
-export const MAX_REQUESTS_PER_WINDOW = 3;
+export const MAX_REQUESTS_PER_WINDOW = 4;
 
 let callsSinceLastPrune = 0;
 
