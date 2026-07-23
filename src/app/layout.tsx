@@ -10,7 +10,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cypher - AI",
+  title: "CYPHER - AI",
   description:
     "AI-powered personalized Cybersecurity companion. Built for analysts and practitioners who are serious about leveling up. Go build a session now.",
   icons: {
